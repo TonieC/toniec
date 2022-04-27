@@ -33,10 +33,3 @@
 
 ## [![Repography](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/25273352/jtonie/jtonie/recent-activity/d24871437c1d7e567750601343793235_badge.svg)](https://repography.com)
 [![Timeline graph](https://images.repography.com/25273352/jtonie/jtonie/recent-activity/d24871437c1d7e567750601343793235_timeline.svg)](https://github.com/jtonie/jtonie/commits)
-[![Issue status graph](https://images.repography.com/25273352/jtonie/jtonie/recent-activity/d24871437c1d7e567750601343793235_issues.svg)](https://github.com/jtonie/jtonie/issues)
-[![Pull request status graph](https://images.repography.com/25273352/jtonie/jtonie/recent-activity/d24871437c1d7e567750601343793235_prs.svg)](https://github.com/jtonie/jtonie/pulls)
-[![Trending topics](https://images.repography.com/25273352/jtonie/jtonie/recent-activity/d24871437c1d7e567750601343793235_words.svg)](https://github.com/jtonie/jtonie/commits)
-[![Top contributors](https://images.repography.com/25273352/jtonie/jtonie/recent-activity/d24871437c1d7e567750601343793235_users.svg)](https://github.com/jtonie/jtonie/graphs/contributors)
-
-
-
