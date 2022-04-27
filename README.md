@@ -2,11 +2,12 @@
 <h3 align="center">A Very Handsome Man</h3>
 
 <p align="center">
-  <img width="460" height="300" src="https://i.ibb.co/25fWr2q/text.gif">
+  <img width="300" height="100" src="https://i.ibb.co/25fWr2q/text.gif">
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jtonie&label=Profile%20views&color=0e75b6&style=flat" alt="jtonie" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jtonie&label=Profile%20views&color=0e75b6&style=flat" alt="jtonie" /> </p>
+
 
 [![Donate via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/tonie112/) 
 
