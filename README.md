@@ -9,8 +9,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jtonie&label=Profile%20views&color=0e75b6&style=flat" alt="jtonie" /> </p>
 
 
-![QR Code](https://github.com/jtonie/jtonie/blob/main/QRCode.png?raw=true)
-
 [![Donate via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/tonie112/) 
 
 
