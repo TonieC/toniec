@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I am a Handsome Man**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 
 <a href="https://discord.gg/https://discord.gg/9phBsjaBg4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9phBsjaBg4" height="30" width="40" /></a>
