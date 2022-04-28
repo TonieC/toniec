@@ -2,7 +2,7 @@
 <h3 align="center">A Very Handsome Man</h3>
 
 <p align="center">
-  <img width="300" height="40" src="https://i.ibb.co/25fWr2q/text.gif">
+  <img width="400" height="70" src="https://i.ibb.co/25fWr2q/text.gif">
 </p>
 
 
