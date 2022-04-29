@@ -18,7 +18,7 @@
 
 - 🤖 Discord Server [Dark](https://discord.gg/9phBsjaBg4)
 
-- 🗨 My Github Page [jtonie.github.io](https://jtonie.github.io)
+- 🗨 My Github Page [Click Me](https://jtonie.github.io)
 
 - 📫 How to reach me **cadizal06@gmail.com | Shroom#0187**
 
