@@ -10,7 +10,10 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=766719829179891743)
 
-![QR](https://github.com/jtonie/jtonie/blob/main/QR%20Code.png)
+
+<p align="center">
+  <img width="400" height="70" src="https://github.com/jtonie/jtonie/blob/main/QR%20Code.png">
+</p>  
 
 
 [![Donate via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/tonie112/) 
