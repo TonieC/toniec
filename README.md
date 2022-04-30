@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img width="250" height="150" src="https://github.com/jtonie/jtonie/blob/main/QR%20Code.png">
+  <img width="250" height="170" src="https://github.com/jtonie/jtonie/blob/main/QR%20Code.png">
 </p>  
 
 
