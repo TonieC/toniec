@@ -2,7 +2,7 @@
 <h3 align="center">A Very Handsome Man</h3>
 
 <p align="center">
-  <img width="400" height="70" src="https://i.ibb.co/25fWr2q/text.gif">
+  <img width="400" height="70" src="https://i.ibb.co/25fWr2q/text.gif" alt="jtonie">
 </p>
 
 
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img width="250" height="170" src="https://github.com/jtonie/jtonie/blob/main/QR%20Code.png">
+  <img width="250" height="170" src="https://github.com/jtonie/jtonie/blob/main/QR%20Code.png" alt="jtonie">
 </p>  
 
 
