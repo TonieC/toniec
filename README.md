@@ -23,7 +23,7 @@
 
 - 🗨 My Github Page [Click Me](https://jtonie.github.io)
 
-- 📫 How to reach me **cadizal06@gmail.com | Shroom#0187**
+- 📫 How to reach me **cadizal06@gmail.com**
 
 - ⚡ Fun fact **I am a Handsome Man**
 
