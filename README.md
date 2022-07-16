@@ -1,4 +1,6 @@
-![shroom](shroom.gif)
+<p align="center">
+  <img src="shroom.gif" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shroom</h1>
 
