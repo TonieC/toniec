@@ -9,6 +9,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jtonie&theme=github-dark-blue)](https://git.io/streak-stats)
 
+
+![](https://komarev.com/ghpvc/?username=jtonie&color=blue&style=for-the-badge)
+![](https://img.shields.io/github/stars/jtonie?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR)
+
 <h1>My Discord</h1>
 
 ![Discord](https://lanyard-profile-readme.vercel.app/api/766719829179891743)
