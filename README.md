@@ -1,7 +1,5 @@
 <h1>Hi i am Jtonie</h1>
 
-<p>Please Donate to Me</p>
-
 [![Donate via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/tonie112/) 
 
 <h1>Stats For Nerds</h1>
