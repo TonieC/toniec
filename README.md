@@ -9,7 +9,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=jtonie&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
-<img src="https://raw.githubusercontent.com/jtonie/jtonie/output/github-contribution-grid-snake.svg" alt="snek">
+![Snake animation](https://github.com/jtonie/jtonie/blob/output/github-contribution-grid-snake.svg)
 
 
 ![](https://komarev.com/ghpvc/?username=jtonie&color=blue&style=for-the-badge)
