@@ -1,9 +1,7 @@
-<h1>Hi i am Milk</h1>
-
 [![Donate via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/tonie112/) 
 
 <h1>Stats For Nerds</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilkGatas&show_icons=true&theme=radical&locale=en&layout=compact" alt="jtonie" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilkGatas&show_icons=true&theme=radical&locale=en&layout=compact" alt="jtonie" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MilkGatas&theme=github-dark-blue)](https://git.io/streak-stats) 
 
