@@ -1,4 +1,4 @@
-[![Donate via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/tonie112/) 
+<a href='https://ko-fi.com/I3I8E7ZXU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <h1>Stats For Nerds</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilkGatas&show_icons=true&theme=radical&locale=en&layout=compact" alt="milk" /></p>
