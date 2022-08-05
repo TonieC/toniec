@@ -1,5 +1,8 @@
 <a href='https://ko-fi.com/I3I8E7ZXU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
+<h1>About me</h1>
+Hi i am Tonie and i only make Templates of stuff which people can freely use for their own Projects Support me via [ko-fi](https://ko-fi.com/I3I8E7ZXU) to encourage me to make more projects! you can contact me via Discord if you want to suggest on what Templates i should do
+
 <h1>Stats For Nerds</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilkGatas&show_icons=true&theme=radical&locale=en&layout=compact" alt="milk" /></p>
 
