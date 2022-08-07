@@ -16,7 +16,7 @@ Hi i am Tonie and i only make Templates of stuff which people can freely use for
 
 <h1>My Discord</h1>
 
-![Discord](https://lanyard-profile-readme.vercel.app/api/766719829179891743)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/766719829179891743?&bg=0d1117&animated=false&borderRadius=60px&idleMessage=Might%20be%20busy%20so%20fuck%20off...)](https://discord.com/users/766719829179891743)
 
 
 <img align="center" src="https://komarev.com/ghpvc/?username=MilkGatas&color=blue&style=for-the-badge" alt="Milk"/>
