@@ -2,7 +2,7 @@
 Hi i am Tonie and i only make Templates of stuff which people can freely use for their own Projects Support me via ko-fi to encourage me to make more projects! you can contact me via Discord if you want to suggest on what Templates i should do
 
 # My Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MilkGatas&show_icons=true&theme=radical&locale=en&layout=compact" alt="milk" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MilkGatas"/>
 
 # Streaks & Contribution Counter
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=MilkGatas&theme=github-dark-blue" alt="milk"/>
