@@ -1,6 +1,8 @@
 <h1>About me</h1>
-Hi i am Tonie a Front end & Back end Developer 
-
+Hi i am Tonie
+I am from the Philippines
+I am a Front end & Back end Developer
+with Years of Experience
 # Stats for Nerds
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkGatas&layout=compact&theme=radical)
 
