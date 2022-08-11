@@ -1,5 +1,5 @@
 <h1>About me</h1>
-Hi i am Tonie and i only make Templates of stuff which people can freely use for their own Projects Support me via ko-fi to encourage me to make more projects! you can contact me via Discord if you want to suggest on what Templates i should do
+Hi i am Tonie a Front end & Back end Developer 
 
 # Stats for Nerds
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilkGatas&layout=compact&theme=radical)
