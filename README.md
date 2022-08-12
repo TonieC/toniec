@@ -12,7 +12,7 @@ with Years of Experience
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tonie06&theme=github-dark-blue" alt="milk"/>
 
 # Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=MilkGatas&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=tonie06&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 ![Snake animation](https://github.com/Tonie06/Tonie06/blob/output/github-contribution-grid-snake.svg)
  
