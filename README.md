@@ -1,4 +1,5 @@
 <h1>About me</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+i+am+Tonie;A+Front-end+%26+Back-end+Developer+)
 
 <h3>
          I have Excellent Knowledge of 
