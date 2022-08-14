@@ -5,6 +5,8 @@ I am a Front end & Back end Developer
 with Years of Experience
 
 # Stats for Nerds
+Total Lines of Code Created: **7863** (Estimate)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonie06&layout=compact&theme=radical)
 
 ![MilkGatas](https://github-readme-stats.vercel.app/api?username=Tonie06&show_icons=true&theme=radical)
