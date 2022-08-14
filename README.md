@@ -1,6 +1,6 @@
-<h1>About me</h1>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+i+am+Tonie;A+Front-end+%26+Back-end+Developer+)
 
+# About me
 <h3>
          I have Excellent Knowledge of 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"><br>
