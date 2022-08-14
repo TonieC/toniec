@@ -1,8 +1,22 @@
 <h1>About me</h1>
-Hi i am Tonie
-I am from the Philippines
-I am a Front end & Back end Developer
-with Years of Experience
+
+<h3>
+         I have Excellent Knowledge of 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"><br>
+        I have Good knowledge of 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"><br>
+        I have Intermediate knowledge of 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"><br>
+        I have Intermediate knowledge of 
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"><br>
+        Currently Learning: 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" width="25"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" width="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" width="25"><br>             
+        Other: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" width="25">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" width="25">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" width="25">
+</h3>
 
 # Stats for Nerds
 Total Lines of Code Created: **7863** (Estimate)
