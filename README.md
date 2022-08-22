@@ -21,11 +21,9 @@
 
 # Stats for Nerds
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonie06&layout=compact&theme=radical)
-
-![MilkGatas](https://github-readme-stats.vercel.app/api?username=Tonie06&show_icons=true&theme=radical)
-
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Tonie06&theme=github-dark-blue" alt="milk"/>
+<p align='center'>
+  <img align="center" src="./github_stats.svg">
+</p>
 
 # Contribution Graph
 <img src="https://activity-graph.herokuapp.com/graph?username=tonie06&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
