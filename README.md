@@ -21,9 +21,10 @@
 
 # Stats for Nerds
 
-<p align='center'>
-  <img align="center" src="./github_stats.svg">
+<p align="center" >
+        <img width="450px" src="https://raw.githubusercontent.com/yogeshwaran01/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
 </p>
+
 
 # Contribution Graph
 <img src="https://activity-graph.herokuapp.com/graph?username=tonie06&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
