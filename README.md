@@ -20,7 +20,6 @@
 </h3>
 
 # Stats for Nerds
-Total Lines of Code Created: **7863** (Estimate)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonie06&layout=compact&theme=radical)
 
