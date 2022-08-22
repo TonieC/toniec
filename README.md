@@ -22,7 +22,9 @@
 # Stats for Nerds
 
 <p align="center" >
-        <img width="450px" src="https://raw.githubusercontent.com/tonei06/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+    <a href="https://tonie06.github.io">
+        <img width="450px" src="https://raw.githubusercontent.com/tonie06/github-stats-terminal-style/master/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
+    </a>
 </p>
 
 
