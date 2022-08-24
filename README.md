@@ -1,6 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+i+am+Tonie;A+Front-end+%26+Back-end+Developer+)
-
-# About me
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Hi+i+am+Tonie;A+Front-end+%26+Back-end+Developer+" alt="Typing SVG"></p>
+<h1 id="about-me">About me</h1>
 <h3>
          I have Excellent Knowledge of 
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"><br>
@@ -13,18 +12,17 @@
         Currently Learning: 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" width="25"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" width="25">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" width="25"><br>             
-        Other: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" width="25">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" width="25"><br><br>        Other: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="25" width="25">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" width="25">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" width="25">
 </h3>
 
-# Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=tonie06&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
-
-![Snake animation](https://github.com/Tonie06/Tonie06/blob/output/github-contribution-grid-snake.svg)
- 
-
+<h1 id="stats">Stats</h1>
+<p><img src="https://github.com/Tonie06/Tonie06/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=tonie06&amp;show_icons=true&amp;theme=dark" alt="Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonie06&amp;layout=compact&amp;theme=dark" alt="Top Langs"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tonie06&amp;theme=dark" alt="Streak"></p>
 <h1>My Discord</h1>
 
-![Discord Presence](https://lanyard-profile-readme.vercel.app/api/766719829179891743?&bg=0d1117&animated=true&borderRadius=60px&idleMessage=Might%20be%20busy%20so%20fuck%20off...)
+<p><img src="https://lanyard-profile-readme.vercel.app/api/766719829179891743?&amp;bg=0d1117&amp;animated=true&amp;borderRadius=60px&amp;idleMessage=Might%20be%20busy%20so%20fuck%20off..." alt="Discord Presence"></p>
+
