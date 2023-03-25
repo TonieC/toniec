@@ -19,7 +19,7 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" width="25">
 </p>
          
-<h1 id="stats">Stats</h1>
+<h1 id="stats">My Stats</h1>
 <p><img src="https://github.com/Tonie06/Tonie06/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=tonie06&amp;show_icons=true&amp;theme=dark" alt="Stats"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonie06&amp;layout=compact&amp;theme=dark" alt="Top Langs"></p>
