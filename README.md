@@ -1,5 +1,3 @@
-<p><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;pause=1000&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Hi+i+am+Tonie;A+Front-end+%26+Back-end+Developer+" alt="Typing SVG"></p>
-
 <h1 id="about-me">About me</h1>
 
 <p style="align:center">
