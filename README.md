@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toniec&label=Profile%20views&color=0e75b6&style=flat" alt="toniec" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://toniec.github.io/](https://toniec.github.io/)
+- 📄 View my resume at [https://toniec.github.io/images/Cadizal%20Resume.pdf.pdf](Resume)
 
 - 📫 How to reach me **cadizal06@gmail.com**
 <p align="left">
