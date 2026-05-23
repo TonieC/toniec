@@ -1,5 +1,5 @@
-`# Hi 👋, I'm Tonie C.
-`
+# Hi 👋, I'm Tonie C.
+
 <p align="center">
   <code>building systems that actually work</code>
 </p>
