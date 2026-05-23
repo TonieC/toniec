@@ -1,55 +1,85 @@
-<h1 align="center">Hi 👋, I'm Tonie C.</h1>
+# Hi 👋, I'm Tonie C.
+
 <p align="center">
-  Developer focused on building practical, scalable, and maintainable systems
+  <code>building systems that actually work</code>
 </p>
 
 <p align="center">
-  <a href="https://toniec.github.io/">Portfolio</a> •
-  <a href="https://toniec.github.io/images/Cadizal%20Resume.pdf.pdf">Resume</a> •
-  <a href="mailto:cadizal06@gmail.com">Email</a>
+  <a href="https://toniec.github.io/">portfolio</a> /
+  <a href="https://toniec.github.io/images/Cadizal%20Resume.pdf.pdf">resume</a> /
+  <a href="mailto:cadizal06@gmail.com">email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=toniec&label=views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- Full Stack Developer from the Philippines  
-- Focused on clean architecture and real-world problem solving  
-- Building fast, reliable, and scalable web applications  
+```bash
+> whoami
+Tonie C. — full stack developer
+
+> focus
+building scalable web apps, APIs, and systems
+
+> current
+shipping projects, improving architecture, optimizing performance
+```
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Languages**
-`JavaScript` `TypeScript` `Python` `Go` `C` `C++` `C#` `Java` `PHP`
-
-**Frontend**
-`React` `Next.js` `Vue` `Angular` `HTML` `CSS` `Sass` `Tailwind`
-
-**Backend**
-`Node.js` `Express` `Django`
-
-**Database & DevOps**
-`MongoDB` `Firebase` `Nginx` `Linux` `Git`
-
-**Tools & Others**
-`Figma` `Arduino` `Zapier`
+```txt
+Languages     JavaScript • TypeScript • Python • Go • C • C++ • Java • PHP
+Frontend      React • Next.js • Vue • Angular • HTML • CSS • Tailwind • Sass
+Backend       Node.js • Express • Django
+Database      MongoDB • Firebase
+DevOps        Linux • Nginx • Git
+Other         Arduino • Figma • Zapier
+```
 
 ---
 
-### 📊 Stats
+## 🚀 Featured Work
+- 🔗 https://toniec.github.io/
+- Scalable full stack applications  
+- API systems and automation tools  
+- Embedded + hardware integrations  
+
+---
+
+## 📈 Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toniec" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=toniec&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniec&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Contact
-- Email: **cadizal06@gmail.com**
-- Portfolio: https://toniec.github.io/
+## 🧠 Currently
+
+```txt
+- improving system design skills
+- writing cleaner, more maintainable code
+- exploring performance + scalability
+```
+
+---
+
+## 📫 Contact
+
+```txt
+email: cadizal06@gmail.com
+portfolio: https://toniec.github.io/
+```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=toniec&label=Profile%20views&color=0e75b6&style=flat" />
+  <i>no fluff. just code.</i>
 </p>
