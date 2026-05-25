@@ -47,6 +47,7 @@ Other       Arduino · Figma · Zapier
 | Project | Description |
 |---|---|
 | 🌐 [Portfolio](https://toniec.github.io/) | Full stack apps, APIs, and hardware projects |
+| 🌐 [Survwin](https://survwin.netlify.app/) | Discord‑based survey‑rewards platform where users complete paid surveys and tasks to earn redeemable points.  |
 | ⚙️ API Systems | REST APIs and automation tooling |
 | 🔌 Embedded | Arduino-based hardware integrations |
 
