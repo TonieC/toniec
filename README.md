@@ -1,4 +1,10 @@
 <h1 align="center">Tonie C.</h1>
+<p align="center">
+  <a href="https://discord.com/users/766719829179891743">
+    <img src="https://lanyard.cnrad.dev/api/766719829179891743?showDisplayName=true&idleMessage=I%20may%20be%20offline%20rn&borderRadius=1px&theme=dark" />
+  </a>
+</p>
+
 
 <p align="center">
   <code>building systems that actually work</code>
@@ -73,10 +79,4 @@ Other       Arduino · Figma · Zapier
 
 <p align="center">
   <i>no fluff. just code.</i>
-</p>
-
-<p align="center">
-  <a href="https://discord.com/users/766719829179891743">
-    <img src="https://lanyard.cnrad.dev/api/766719829179891743?showDisplayName=true&idleMessage=I%20may%20be%20offline%20rn&borderRadius=1px&theme=dark" />
-  </a>
 </p>
