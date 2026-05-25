@@ -54,9 +54,6 @@ Other         Arduino • Figma • Zapier
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toniec" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=toniec&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniec&layout=compact&hide_border=true" />
 </p>
 
 ---
