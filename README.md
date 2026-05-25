@@ -75,8 +75,8 @@ Other       Arduino · Figma · Zapier
   <i>no fluff. just code.</i>
 </p>
 
-<div style="display:flex; justify-content:center;">
+<p align="center">
   <a href="https://discord.com/users/766719829179891743">
-    <img src="https://lanyard.cnrad.dev/api/766719829179891743?showDisplayName=true&idleMessage=I%20may%20be%20offline%20rn&borderRadius=1px&theme=dark" alt="Discord Presence">
+    <img src="https://lanyard.cnrad.dev/api/766719829179891743?showDisplayName=true&idleMessage=I%20may%20be%20offline%20rn&borderRadius=1px&theme=dark" />
   </a>
-</div>
+</p>
