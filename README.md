@@ -75,5 +75,6 @@ Other       Arduino · Figma · Zapier
   <i>no fluff. just code.</i>
 </p>
 
+<h1 align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/766719829179891743?showDisplayName=true&idleMessage=I%20may%20be%20offline%20rn&borderRadius=1px&theme=dark)](https://discord.com/users/766719829179891743)
-
+</h1>
