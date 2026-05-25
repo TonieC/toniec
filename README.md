@@ -1,10 +1,12 @@
-<h1 align="center">Tonie C.</h1>
+
 <p align="center">
   <a href="https://discord.com/users/766719829179891743">
     <img src="https://lanyard.cnrad.dev/api/766719829179891743?showDisplayName=true&idleMessage=I%20am%20not%20doing%20anything%20rn&borderRadius=1px&theme=dark" />
   </a>
 </p>
 
+
+<h1 align="center">Tonie C.</h1>
 
 <p align="center">
   <code>building systems that actually work</code>
