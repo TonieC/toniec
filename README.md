@@ -1,4 +1,5 @@
 <h1 align="center">Tonie C.</h1>
+[![Discord Presence](https://lanyard.cnrad.dev/api/766719829179891743?showDisplayName=true&idleMessage=I%20may%20be%20offline%20rn&borderRadius=1px&theme=dark)](https://discord.com/users/766719829179891743)
 
 <p align="center">
   <code>building systems that actually work</code>
@@ -58,9 +59,6 @@ Other       Arduino · Figma · Zapier
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=toniec&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toniec&layout=compact&theme=dark&hide_border=true" />
-</p>
 
 ---
 
