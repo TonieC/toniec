@@ -54,9 +54,12 @@ Other       Arduino · Figma · Zapier
 
 | Project | Description |
 |---|---|
-| 🌐 [Portfolio](https://toniec.github.io/) | Full stack apps, APIs, and hardware projects |
-| 🌐 [Survwin](https://survwin.netlify.app/) | Discord‑based survey‑rewards platform where users complete paid surveys and tasks to earn redeemable points.  |
-| 🌐 [Webhook Studio](https://github.com/TonieC/Self-Hosted-Discord-Webhook-Sender) | self-hosted Discord webhook sender with full-ish embed customization. |
+|  [Portfolio](https://toniec.github.io/) | Full stack apps, APIs, and hardware projects |
+|  [Survwin](https://survwin.netlify.app/) | Discord‑based survey‑rewards platform where users complete paid surveys and tasks to earn redeemable points.  |
+|  [Webhook Studio](https://github.com/TonieC/Self-Hosted-Discord-Webhook-Sender) | self-hosted Discord webhook sender with full-ish embed customization. |
+| [Taskify](https://toniec.github.io/taskify.html) | Client-side task manager with priorities, drag-and-drop reordering, keyboard shortcuts, persistent storage, and a built-in focus timer. |
+|  [Playground](https://toniec.github.io/playground.html) | An open sandbox for small front-end experiments — component tests, animation proofs-of-concept, and quick interface ideas explored in isolation. |
+
 
 ---
 
